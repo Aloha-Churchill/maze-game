@@ -1,2 +1,2 @@
-# Maze-Game
-terminal maze game
+# Maze Game
+Simple maze game played in terminal. 
